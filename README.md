@@ -1,5 +1,4 @@
 # Hi, I’m Jullian Toledo  
-I’m an aspiring engineer, roboticist, and developer with a passion for building real-world AI systems that help people.
 
 ## What I’m Working On
 I’m currently building a modular AI system focused on computer vision and analysis. Some of the key features I’m developing include:
