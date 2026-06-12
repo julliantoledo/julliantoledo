@@ -1,5 +1,3 @@
-Jullian Toledo  
-
 What I’m Working On:
 Modular AI system focused on computer vision and analysis. Some of the key features I’m developing include:
 - Facial recognition and demographic prediction (age, sex, ethnicity)
